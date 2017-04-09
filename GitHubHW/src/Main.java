@@ -13,6 +13,7 @@ public class Main {
            System.out.println("THIS APP SHOWS SALES DATA");
            
            System.out.println("Cowan test 1");
+           System.out.println("Cowan test 2");
   } //End displayGreeting
 
 }  //End class Main
